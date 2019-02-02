@@ -12,6 +12,14 @@ php composer.phar install
 
 ```
 
+### Step 2: Runing unit tests
+Once installed:
+```javascript
+// Assuming your environment variable is set up
+php vendor/phpunit/phpunit/phpunit
+
+```
+
 ### Step 3: Run the lookup command
 Once installed:
 ```javascript
@@ -20,12 +28,6 @@ php lookup-repo lookup
 
 ```
 
-### Step 2: Runing unit tests
-Once installed:
-```javascript
-// Assuming your environment variable is set up
-php vendor/phpunit/phpunit/phpunit
 
-```
 
 
