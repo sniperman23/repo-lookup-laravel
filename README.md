@@ -28,6 +28,18 @@ php lookup-repo lookup
 
 ```
 
+### Extra: Verbose and help
+Once installed:
+```javascript
+// On the command line for help
+php lookup-repo lookup -h
+// Running verbose mode
+php lookup-repo lookup -v
+
+```
+
+
+
 
 
 
